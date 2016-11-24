@@ -1,3 +1,8 @@
+# About
+This is my personal fork of the GNU coreutils repository. I use this project to experiment and learn more about operating system development. At this time, I do not intend on keeping this repository updated with the master branch unless a bug fix is required.
+
+# GNU Core Utilities Project README
+
 These are the GNU core utilities.  This package is the union of
 the GNU fileutils, sh-utils, and textutils packages.
 
